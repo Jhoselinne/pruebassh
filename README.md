@@ -2,4 +2,5 @@
 Transmitir commits en una conexión segura.
 
 --
-Conexión segura
+
+Conexión segura.
